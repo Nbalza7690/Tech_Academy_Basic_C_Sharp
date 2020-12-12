@@ -1,0 +1,7 @@
+C:\Projects\Boot_Camp\Basic_C#_Programs\Welcome_Screen\Welcome_Screen\bin\Debug\Welcome_Screen.exe.config
+C:\Projects\Boot_Camp\Basic_C#_Programs\Welcome_Screen\Welcome_Screen\bin\Debug\Welcome_Screen.exe
+C:\Projects\Boot_Camp\Basic_C#_Programs\Welcome_Screen\Welcome_Screen\bin\Debug\Welcome_Screen.pdb
+C:\Projects\Boot_Camp\Basic_C#_Programs\Welcome_Screen\Welcome_Screen\obj\Debug\Welcome_Screen.csprojAssemblyReference.cache
+C:\Projects\Boot_Camp\Basic_C#_Programs\Welcome_Screen\Welcome_Screen\obj\Debug\Welcome_Screen.csproj.CoreCompileInputs.cache
+C:\Projects\Boot_Camp\Basic_C#_Programs\Welcome_Screen\Welcome_Screen\obj\Debug\Welcome_Screen.exe
+C:\Projects\Boot_Camp\Basic_C#_Programs\Welcome_Screen\Welcome_Screen\obj\Debug\Welcome_Screen.pdb
