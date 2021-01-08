@@ -1,0 +1,6 @@
+C:\Projects\Boot_Camp\Basic_C#_Programs\DRassignment\DRassignment\bin\Debug\DRassignment.exe.config
+C:\Projects\Boot_Camp\Basic_C#_Programs\DRassignment\DRassignment\bin\Debug\DRassignment.exe
+C:\Projects\Boot_Camp\Basic_C#_Programs\DRassignment\DRassignment\bin\Debug\DRassignment.pdb
+C:\Projects\Boot_Camp\Basic_C#_Programs\DRassignment\DRassignment\obj\Debug\DRassignment.csproj.CoreCompileInputs.cache
+C:\Projects\Boot_Camp\Basic_C#_Programs\DRassignment\DRassignment\obj\Debug\DRassignment.exe
+C:\Projects\Boot_Camp\Basic_C#_Programs\DRassignment\DRassignment\obj\Debug\DRassignment.pdb
